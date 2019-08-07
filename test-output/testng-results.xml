@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-08-06T19:52:11Z" name="Default suite" finished-at="2019-08-06T19:52:11Z" duration-ms="26">
+    <groups>
+    </groups>
+    <test started-at="2019-08-06T19:52:11Z" name="Default test" finished-at="2019-08-06T19:52:11Z" duration-ms="26">
+      <class name="Testpackage.Basic1">
+        <test-method signature="bye()[pri:0, instance:Testpackage.Basic1@4ae3c1cd]" started-at="2019-08-06T19:52:11Z" name="bye" finished-at="2019-08-06T19:52:11Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bye -->
+        <test-method signature="hi()[pri:0, instance:Testpackage.Basic1@4ae3c1cd]" started-at="2019-08-06T19:52:11Z" name="hi" finished-at="2019-08-06T19:52:11Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi -->
+      </class> <!-- Testpackage.Basic1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
